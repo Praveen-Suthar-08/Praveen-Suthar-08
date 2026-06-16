@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Praveen Suthar
 
-🚀 **Full Stack Web Developer | MERN | Django | AI Enthusiast**
+🚀 ** Web Developer | MERN | Django | AI Enthusiast**
 
 ---
 
