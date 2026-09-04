@@ -36,22 +36,39 @@ Hi, I'm Praveen — a Full Stack Developer with AI and a Data Analyst with Gen A
 <tr>
 <td width="50%" align="justify">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1800&color=58A6FF&center=true&vCenter=true&width=480&height=110&lines=%F0%9F%94%B9%20ErrandX%20Marketplace;Full-stack%20MERN%20microtask%20platform;Secure%20authentication%20%2B%20REST%20APIs;Optimized%20DB%20queries%20%28~30%25%20faster%29" />
+**🔹 ErrandX Marketplace**
+- Full-stack MERN microtask platform
+- Secure authentication + REST APIs
+- Optimized DB queries (~30% faster)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1800&color=58A6FF&center=true&vCenter=true&width=480&height=110&lines=%F0%9F%94%B9%20AI%20Resume%20Analyzer%20%F0%9F%94%A5;AI-powered%20resume%20feedback%20system;Built%20using%20MERN%20%2B%20OpenAI%20API;Smart%20insights%20%26%20suggestions%20dashboard" />
+**🔹 AI Resume Analyzer** 🔥
+- AI-powered resume feedback system
+- Built using MERN + OpenAI API
+- Smart insights & suggestions dashboard
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1800&color=58A6FF&center=true&vCenter=true&width=480&height=88&lines=%F0%9F%94%B9%20Portfolio%20Website;Responsive%20personal%20portfolio;Performance%20optimized%20%28~25%25%20faster%29" />
+**🔹 Portfolio Website**
+- Responsive personal portfolio
+- Performance optimized (~25% faster)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1800&color=58A6FF&center=true&vCenter=true&width=480&height=110&lines=%F0%9F%94%B9%20ReLoop%3A%20AI-Driven%20Donation%20%26%20Redistribution%20%28SaaS%29%20%E2%80%94%202026;AI-powered%20SaaS%3A%20React.js%2C%20FastAPI%2C%20PostgreSQL;Resource%20matching%20%26%20demand%20prediction%20%E2%80%94%2035%25%20more%20efficient;Scalable%20APIs%2C%20secure%20auth%2C%20AWS%20%26%20Firebase%20deployment" />
+**🔹 ReLoop: AI-Driven Donation & Redistribution Platform (SaaS)** — 2026 (Working)
+- AI-powered SaaS built with React.js, FastAPI, PostgreSQL connecting surplus resources to communities in need
+- Intelligent resource matching & demand prediction (Scikit-learn, Pandas) — improved distribution efficiency by 35%
+- Scalable backend APIs, secure auth, cloud deployment via AWS & Firebase
 
 </td>
 <td width="50%" align="justify">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1800&color=58A6FF&center=true&vCenter=true&width=480&height=88&lines=%F0%9F%94%B9%20Hospital%20Management%20System;Role-based%20app%20for%20patients%2C%20doctors%20%26%20appointments;Real-time%20scheduling%20%26%20billing%20%E2%80%94%2025%25%20more%20efficient" />
+**🔹 Hospital Management System**
+- Role-based web app for patients, doctors & appointments with secure access control
+- Real-time scheduling & automated billing — improved operational efficiency by 25%
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1800&color=58A6FF&center=true&vCenter=true&width=480&height=88&lines=%F0%9F%94%B9%20Stranger%20Collaboration%20Platform;Real-time%20multi-user%20platform%3A%20MERN%20%2B%20WebSockets;Intelligent%20matching%20%26%20secure%20auth%20%E2%80%94%2035%25%20more%20engagement" />
+**🔹 Stranger Collaboration Platform**
+- Real-time multi-user platform built with MERN + WebSockets
+- Intelligent matching algorithms & secure auth — increased user engagement by 35%
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1800&color=58A6FF&center=true&vCenter=true&width=480&height=88&lines=%F0%9F%94%B9%20Employee%20Management%20System;CRUD%20system%2C%20modular%20architecture%20%26%20optimized%20DB%20design;Secure%20auth%20%26%20optimized%20workflows%20%E2%80%94%20cut%20effort%20by%2040%25" />
+**🔹 Employee Management System**
+- CRUD-based web system with modular architecture & optimized DB design
+- Secure authentication & optimized workflows — cut manual management effort by 40%
 
 </td>
 </tr>
