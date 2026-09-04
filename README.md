@@ -22,7 +22,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Praveen-Suthar-08&style=for-the-badge&color=000000&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Profile_Views-78-000000?style=for-the-badge" alt="Profile Views: 78"/>
 
 </div>
 
@@ -32,6 +32,7 @@
 
 <table>
 <tr>
+
 <td width="65%">
 
 ## 🚀 Full Stack Developer | AI & Data Enthusiast
@@ -71,6 +72,7 @@ I'm a **Full Stack Developer with AI** and a **Data Analyst with Generative AI**
 <img src="https://img.shields.io/badge/MERN-STACK-000000?style=for-the-badge" alt="MERN Stack"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -346,7 +348,13 @@ A collection of practical projects exploring Machine Learning, Data Analytics an
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=Praveen-Suthar-08&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak"/>
+<img src="https://img.shields.io/badge/Current_Streak-7_Days-000000?style=for-the-badge" alt="Current Streak: 7 Days"/>
+
+<img src="https://img.shields.io/badge/Longest_Streak-12_Days-000000?style=for-the-badge" alt="Longest Streak: 12 Days"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Profile_Views-78-000000?style=for-the-badge" alt="Profile Views: 78"/>
 
 <br><br>
 
