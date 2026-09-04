@@ -22,7 +22,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Profile_Views-78-000000?style=for-the-badge" alt="Profile Views: 78"/>
+<img src="https://img.shields.io/badge/Profile_Views-78-000000?style=for-the-badge" alt="Profile Views: 157"/>
 
 </div>
 
