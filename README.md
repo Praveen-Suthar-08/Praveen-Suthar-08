@@ -165,11 +165,11 @@ AI-powered resume analysis platform providing intelligent feedback and insights.
 <tr>
 <td width="50%">
 
-## 🔹 ReLoop
+## 🔹 ReLoop -AI-driven Donation & Redistribution SaaS platform.
+
 
 **React | FastAPI | PostgreSQL | Scikit-learn**
 
-AI-driven Donation & Redistribution SaaS platform.
 
 **Key Features**
 - 🤖 Intelligent resource matching
