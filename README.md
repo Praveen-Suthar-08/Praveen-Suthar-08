@@ -339,30 +339,6 @@ A collection of practical projects exploring Machine Learning, Data Analytics an
 </tr>
 </table>
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-## 🔥 GitHub Streak
-
-
-
-<br><br>
-
-
-<br><br>
-
-<a href="https://github.com/Praveen-Suthar-08">
-
-<img src="https://img.shields.io/badge/VIEW%20MY%20GITHUB%20PROFILE-000000?style=for-the-badge&logo=github&logoColor=white" alt="View My GitHub Profile"/>
-
-</a>
-
-</div>
-
----
 
 # 🧠 What I Build
 
