@@ -22,7 +22,6 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Profile_Views-78-000000?style=for-the-badge" alt="Profile Views: 157"/>
 
 </div>
 
@@ -348,13 +347,10 @@ A collection of practical projects exploring Machine Learning, Data Analytics an
 
 ## 🔥 GitHub Streak
 
-<img src="https://img.shields.io/badge/Current_Streak-7_Days-000000?style=for-the-badge" alt="Current Streak: 13 Days"/>
 
-<img src="https://img.shields.io/badge/Longest_Streak-12_Days-000000?style=for-the-badge" alt="Longest Streak: 35 Days"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Profile_Views-78-000000?style=for-the-badge" alt="Profile Views: 157"/>
 
 <br><br>
 
