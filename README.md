@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a1a,100:333333&height=260&section=header&text=Praveen%20Suthar&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20with%20AI%20%7C%20Data%20Analyst%20with%20Gen%20AI&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a1a,100:333333&height=260&section=header&text=Praveen%20Suthar&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20with%20AI%20%7C%20GenAI%20%26%20Agentic%20AI%20Developer&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%7C+AI+Developer;Data+Analyst+with+Generative+AI;Building+Scalable+MERN+Applications;Exploring+LLMs+%7C+Agentic+AI+%7C+Cloud;Turning+Ideas+Into+Real+Products" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%7C+AI+Developer;Generative+AI+%26+Agentic+AI+Developer;Building+Scalable+MERN+Applications;Exploring+LLMs+%7C+RAG+%7C+Autonomous+Agents;Voice+AI+%7C+LangGraph+%7C+Cloud;Turning+Ideas+Into+Real+Products" alt="Typing SVG"/>
 
 <br><br>
 
@@ -10,12 +10,6 @@
 <a href="https://linkedin.com/in/PraveenSuthar08"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/Praveen-Suthar-08"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://praveen-portfolio-hazel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Praveen-Suthar-08&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Praveen-Suthar-08?label=Followers&style=for-the-badge&color=000000&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/badge/Public%20Repos-41-000000?style=for-the-badge&logo=github" alt="Repos"/>
 
 </div>
 
@@ -29,14 +23,15 @@
 <tr>
 <td width="65%" valign="top">
 
-### 🚀 Full Stack Developer | AI & Data Enthusiast
+### 🚀 Full Stack Developer | GenAI & Agentic AI Enthusiast
 
-I'm a **Full Stack Developer with AI** and a **Data Analyst with Generative AI**, focused on building practical, scalable and intelligent applications.
+I'm a **Full Stack Developer with AI** who builds with **Generative AI** and **Agentic AI** — from RAG pipelines and voice assistants to autonomous, self-healing agents — focused on practical, scalable and intelligent applications.
 
 - 🎓 **CGPA:** 8.95
 - 💻 Full Stack Development with **MERN**
-- 🤖 Generative AI, LLMs & AI Agents
-- 📊 Data Analytics & Machine Learning
+- 🤖 Generative AI, LLMs & Prompt Engineering
+- 🧠 Agentic AI — autonomous agents, LangGraph & tool calling
+- 🔎 RAG Pipelines & Voice AI
 - ☁️ Cloud & OCI
 - 🔐 REST APIs & JWT Authentication
 - ⚡ Performance Optimization
@@ -64,7 +59,7 @@ I'm a **Full Stack Developer with AI** and a **Data Analyst with Generative AI**
 
 ```js
 const praveen = {
-  role: ["Full Stack Developer with AI", "Data Analyst with Generative AI"],
+  role: ["Full Stack Developer with AI", "GenAI & Agentic AI Developer"],
   location: "India 🇮🇳",
   cgpa: 8.95,
   stack: ["MERN", "Next.js", "FastAPI", "Django", "Python"],
@@ -95,7 +90,7 @@ const praveen = {
 ### ☁️ Cloud & Tools
 <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode,vercel&theme=dark" alt="Cloud and Tools"/>
 
-### 🤖 AI & Data
+### 🤖 GenAI & Agentic AI
 
 <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit Learn"/>
@@ -162,7 +157,7 @@ AI-driven donation & redistribution SaaS platform that intelligently connects re
 - 🤖 Intelligent Resource Matching
 - 📈 Demand Prediction
 - 🧠 Machine Learning
-- 📊 Data Analytics
+- 🌐 Full Stack SaaS
 - ☁️ AWS / Firebase
 
 **⚡ ~35% improvement in distribution**
@@ -245,15 +240,15 @@ Employee management platform with modular architecture and optimized database wo
 </td>
 <td width="50%" valign="top">
 
-### 🔹 AI & Data Projects
-**Python · Pandas · Scikit-learn**
+### 🔹 GenAI & Agentic AI Projects
+**Python · LangGraph · RAG · TypeScript**
 
-Practical projects exploring Machine Learning, Data Analytics and Generative AI.
+Practical projects exploring Generative AI, RAG, autonomous agents and voice AI.
 
-- 📊 Data Analysis
-- 🤖 Machine Learning
-- 🧠 Generative AI
-- 🔎 Predictive Analytics
+- 🧠 Generative AI Applications
+- 🤖 Autonomous & Self-Healing Agents
+- 🔎 RAG Pipelines
+- 🎙️ Voice AI & Telephony
 - 📝 Prompt Engineering
 
 [📂 Browse all](https://github.com/Praveen-Suthar-08?tab=repositories)
@@ -296,7 +291,7 @@ Practical projects exploring Machine Learning, Data Analytics and Generative AI.
 | [📝 Thoughtify Notes](https://github.com/Praveen-Suthar-08/thoughtify_notes_app) | Notes application | `HTML` |
 | [🧮 CalcSuite](https://github.com/Praveen-Suthar-08/CalcSuite-) | Suite of calculators | `HTML` |
 
-## 📊 Data Analytics & Machine Learning
+## 🧪 Machine Learning Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -326,9 +321,9 @@ Generative AI<br>LLMs & RAG<br>AI Agents<br>Prompt Engineering
 </td>
 <td align="center" width="25%">
 
-## 📊
-### Data Solutions
-Python<br>Pandas<br>Machine Learning<br>Analytics
+## 🧠
+### Agentic AI Systems
+LangGraph<br>Autonomous Agents<br>Voice AI<br>Tool Calling
 
 </td>
 <td align="center" width="25%">
@@ -356,35 +351,12 @@ AWS<br>OCI<br>Firebase<br>Deployment
            ↓
       LLMs & AGENTS
            ↓
-     DATA ANALYTICS
+   AGENTIC AI & AUTOMATION
            ↓
     MACHINE LEARNING
            ↓
  CLOUD & SCALABLE SYSTEMS
 ```
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Praveen-Suthar-08&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9&border_color=333333&hide_border=false&count_private=true" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Suthar-08&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=c9c9c9&border_color=333333&langs_count=8" alt="Top Languages"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Praveen-Suthar-08&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=333333" alt="GitHub Streak"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen-Suthar-08&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=444444&hide_border=true" alt="Activity Graph" width="100%"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Praveen-Suthar-08&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
 
 </div>
 
