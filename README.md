@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a1a,100:333333&height=260&section=header&text=Praveen%20Suthar&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20with%20AI%20%7C%20GenAI%20%26%20Agentic%20AI%20Developer&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=220&section=header&text=Praveen%20Suthar&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20with%20AI%20%7C%20GenAI%20and%20Agentic%20AI%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%7C+AI+Developer;Generative+AI+%26+Agentic+AI+Developer;Building+Scalable+MERN+Applications;Exploring+LLMs+%7C+RAG+%7C+Autonomous+Agents;Voice+AI+%7C+LangGraph+%7C+Cloud;Turning+Ideas+Into+Real+Products" alt="Typing SVG"/>
 
